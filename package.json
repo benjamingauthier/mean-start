@@ -1,0 +1,16 @@
+{
+  "name": "mean-project",
+  "version": "1.0.0",
+  "description": "My first MEAN Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.2.3",
+    "express": "^4.11.1",
+    "mongoose": "^3.8.21"
+  }
+}
